@@ -1,0 +1,108 @@
+body{
+    background: linear-gradient(#a2d2ff, #EFB0C9);
+    color: white;
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    text-shadow: 0 0 5px black;
+}
+
+#sangeet{ 
+    width: 100px;
+    border-radius: 50px;
+    border: 5px solid #EFB0C9;
+}
+
+#years{
+    background-color: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+#date{
+    background-color: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 0px;
+}
+
+
+#header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gift-section{
+    margin-top: 50px;
+}
+
+.cover-img{
+    margin: 0 auto;
+    background-image: url(https://img.myloview.com/stickers/happy-birthday-gift-card-on-dark-background-template-for-cover-poster-banner-greeting-card-party-vector-illustration-700-181358197.jpg);
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-size: cover;
+}
+
+.cover-img:hover{
+    background-image: url(https://media2.giphy.com/media/IwAZ6dvvvaTtdI8SD5/200w.gif?cid=82a1493b0l3gg9ww8mf5o676x3d62jlzzuvc1jtt02kwvt78&rid=200w.gif&ct=g);
+}
+
+.reaction{
+    margin: 0 auto;
+    background-image: url(https://img.myloview.com/stickers/happy-birthday-gift-card-on-dark-background-template-for-cover-poster-banner-greeting-card-party-vector-illustration-700-181358197.jpg);
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-size: cover;
+}
+
+.reaction:hover{
+    background-image: url(https://i.makeagif.com/media/7-19-2015/NVDM32.gif);
+}
+
+.genius-cover{
+    margin: 0 auto;
+    background-image: url(https://img.myloview.com/stickers/happy-birthday-gift-card-on-dark-background-template-for-cover-poster-banner-greeting-card-party-vector-illustration-700-181358197.jpg);
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-size: cover;
+}
+
+.genius-cover:hover{
+    background-image: url(https://media0.giphy.com/media/fvrfW6FkwTvYcZCvsy/giphy.gif?cid=6c09b95274d45fda5b4ab42e6aacbe389ca17b7f944f206e&rid=giphy.gif&ct=g);
+}
+
+.badass-cover{
+    margin: 0 auto;
+    background-image: url(https://img.myloview.com/stickers/happy-birthday-gift-card-on-dark-background-template-for-cover-poster-banner-greeting-card-party-vector-illustration-700-181358197.jpg);
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-size: cover;
+}
+
+.badass-cover:hover{
+    background-image: url(https://media4.giphy.com/media/26FPFAz02a1Ci1C3m/giphy.gif?cid=6c09b9520f9abef403ef3ec5ed23d41d78006cdc5ecd03ec&rid=giphy.gif&ct=g);
+}
+
+.party-cover{
+    margin: 0 auto;
+    background-image: url(https://img.myloview.com/stickers/happy-birthday-gift-card-on-dark-background-template-for-cover-poster-banner-greeting-card-party-vector-illustration-700-181358197.jpg);
+    width: 400px;
+    height: 200px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-size: cover;
+}
+
+.party-cover:hover{
+    background-image: url(https://media2.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif);
+}   
